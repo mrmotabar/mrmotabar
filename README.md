@@ -4,7 +4,7 @@
 </h2>
 
 <div align="center">
-    <img src="https://github.com/mrmotabar/mrmotabar/tree/main/Images/image1.gif?raw=true" href="https://github.com/mrmotabar" alt="Coding Animation"  width="60%" />
+    <img src="https://github.com/mrmotabar/mrmotabar/blob/main/Images/image1.gif?raw=true" href="https://github.com/mrmotabar" alt="Coding Animation"  width="60%" />
 </div>
 I'm Mohammadreza, an Undergraduate Computer Science Student at the University of Tehran 🎓
 
