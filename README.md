@@ -1,12 +1,12 @@
 <h2 align="center">
     Welcome to My Profile! 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    <img src="./profile/wave.gif" width="28">
 </h2>
 
 <div align="center">
-    <img src="https://files.catbox.moe/8oguzc.gif" alt="Cozy Pixel Coder" width="58%" />
+    <img src="./profile/banner.gif" alt="Cozy Pixel Coder" width="58%" />
     <br /><br />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&lines=M.Sc.+Computer+Science+Student;Cryptography+%26+Security+Researcher;Theory+of+Computation+%26+Complexity" alt="Typing SVG" />
+    <img src="./profile/typing.svg" alt="Typing SVG" />
 </div>
 
 <br />
@@ -22,13 +22,13 @@
 <h2> ⚡ Activity & Stats </h2>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mrmotabar&theme=github-dark-dimmed&hide_border=true&background=00000000" alt="GitHub Streak" /></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 </div>
 <div align="center">
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohammadreza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrmotabar&show_icons=true&count_private=true&theme=github_dark_dimmed&hide_border=true&bg_color=00000000" height="160px"/></a>
+  <a href="https://github.com/stats-organization/github-readme-stats-action"><img alt="Mohammadreza's Github Stats" src="./profile/stats.svg" height="160px"/></a>
   &nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mohammadreza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmotabar&langs_count=8&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=00000000&card_width=467" height="160px"/></a>
+  <a href="https://github.com/stats-organization/github-readme-stats-action"><img alt="Mohammadreza's Top Languages" src="./profile/top-langs.svg" height="160px"/></a>
   <br/>
 </div>
 <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
